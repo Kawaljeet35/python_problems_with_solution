@@ -1,7 +1,7 @@
-# python_programs
+# python_problems_with_solution
 
-Welcome to my collection of Python code snippets! This repository contains various Python scripts and programs 
-covering a wide range of topics, including algorithms, data structures, utility functions, and more.
+Welcome to my collection of Python code snippets! This repository contains most asked python problems
+along with the solution covering a wide range of topics, including algorithms, data structures, utility functions, and more.
 
 You can explore the repository to find code snippets that interest you.
 
