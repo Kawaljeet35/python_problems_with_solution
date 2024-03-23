@@ -1,7 +1,7 @@
 """
 Bubble Sort
 
-Write a Python function to implement the Bubble Sort algorithm and 
+Write a program in python to implement the Bubble Sort algorithm and 
 sort a given list in ascending order. 
 """
 
