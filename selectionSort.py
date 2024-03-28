@@ -18,3 +18,11 @@ def selectionSort(list):
 
 list = [8,3,7,4,1,1,1]
 print(selectionSort(list))
+
+"""
+Time Complexity:
+    Best Case: O(n^2)
+    Average Case: O(n^2)
+    Worst Case: O(n^2)
+Space Complexity: O(1)
+"""
