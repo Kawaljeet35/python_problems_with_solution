@@ -19,3 +19,13 @@ def bubbleShort(list):
 
 list_a = [8,3,4,7,1,1]
 print(bubbleShort(list_a))
+
+"""
+Time Complexity:
+    Best Case: O(n)
+    Average Case: O(n^2)
+    Worst Case: O(n^2)
+Space Complexity: O(1)
+"""
+
+ 
