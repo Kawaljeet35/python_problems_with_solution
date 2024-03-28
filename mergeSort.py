@@ -38,3 +38,11 @@ def mergeSort(list):
 
 list = [8,3,7,4,1]
 print(mergeSort(list))
+
+"""
+Time Complexity:
+    Best Case: O(n log n)
+    Average Case: O(n log n)
+    Worst Case: O(n log n)
+Space Complexity: O(n)
+"""
